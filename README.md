@@ -1,4 +1,3 @@
-Okay, I have removed all the cite markers from the text.
 
 # GANs for Image Generation
 
